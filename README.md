@@ -1,6 +1,6 @@
 # LeetCode solutions
 
-## My solutions to LeetCode problems. List will be growing (I hope so).
+*My solutions to LeetCode problems. List will be growing (I hope so).*
 
 ### Easy
 * [Two Sum](https://leetcode.com/problems/two-sum/): Go

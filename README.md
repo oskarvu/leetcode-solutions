@@ -4,6 +4,7 @@
 
 ### Easy
 * [Two Sum](https://leetcode.com/problems/two-sum/): Go
+* [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/): TypeScript
 ### Medium
 * [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/): Go
 ### Hard
